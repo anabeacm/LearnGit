@@ -13,7 +13,7 @@ Learning GitHub and best programming practices
 - git log --oneline --graph --all
 ## Conventional Commits:
 
-| : Tipo :     | : Uso :                                   |
+| Tipo     |  Uso                                  |
 |----------|---------------------------------------|
 | feat     | nova funcionalidade                   |
 | fix      | correção de bug                       |
