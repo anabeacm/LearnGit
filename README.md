@@ -13,6 +13,8 @@ Learning GitHub and best programming practices
 - git log --oneline --graph --all
 ## Conventional Commits:
 
+| :Tipo:     | :Uso:                                   |
+|----------|---------------------------------------|
 | feat     | nova funcionalidade                   |
 | fix      | correção de bug                       |
 | refactor | reorganização sem mudar comportamento |
