@@ -7,10 +7,12 @@ Learning GitHub and best programming practices
 - git add .
 - git add something.py
 - git commit -m "Description"
+- git commit --amend -m "New Message"
 - git push
 - git diff
 - git diff --staged
 - git log --oneline --graph --all
+
 ## Conventional Commits:
 
 | Tipo     |  Uso                                  |
