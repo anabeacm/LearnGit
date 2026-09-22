@@ -24,6 +24,7 @@ Bibliography https://git-scm.com/book/en/v2
 - git diff
 - git diff --staged
 - git log --oneline --decorate --graph --all
+- git push --force-with-lease origin main
 
 ## Using branches:
 
