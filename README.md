@@ -1,5 +1,17 @@
 # LearnGit
-Learning GitHub and best programming practices
+Learning GitHub and best programming practices;
+Bibliography https://git-scm.com/book/en/v2
+
+## Initializing Git:
+
+- git config --global user.name "Nome"
+- git config --global user.email nome@example.com
+
+- git init
+
+- git clone
+- git clone -b branchname <directory link.git>
+- git clone --branch branchname --single-branch <directory link.git>
 
 ## Commands:
 
@@ -11,7 +23,20 @@ Learning GitHub and best programming practices
 - git push
 - git diff
 - git diff --staged
-- git log --oneline --graph --all
+- git log --oneline --decorate --graph --all
+
+## Using branches:
+
+From Git version 2.23 onwards you can use git switch instead of git checkout to:
+
+Switch to an existing branch: 
+- git switch testing-branch.
+
+Create a new branch and switch to it:
+- git switch -c new-branch. 
+- git switch --create.
+
+Return to your previously checked out branch: git switch -
 
 ## Conventional Commits:
 
