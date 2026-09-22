@@ -1,7 +1,9 @@
 # LearnGit
 Learning GitHub and best programming practices;
+
 Bibliography https://git-scm.com/book/en/v2
-Markdown https://www.craftmarkdown.com/markdown-cheat-sheet
+
+Markdown https://www.craftmarkdown.com/markdown-cheat-sheet and https://www.markdownlang.com/pt/advanced/math.html
 
 ## Initializing Git:
 
