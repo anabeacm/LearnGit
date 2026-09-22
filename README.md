@@ -13,8 +13,8 @@ Markdown https://www.craftmarkdown.com/markdown-cheat-sheet and https://www.mark
 - git init
 
 - git clone
-- git clone -b branchname <directory link.git>
-- git clone --branch branchname --single-branch <directory link.git>
+- git clone -b branchname 'directory link.git'
+- git clone --branch branchname --single-branch 'directory link.git'
 
 ## Commands:
 
